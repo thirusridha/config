@@ -2,7 +2,7 @@ build:
  version: "1.12"
 
 loans:
- message: "Wecome to eazybank related to loans prod API's"
+ message: "Wecome to eazybank related to loans production API's"
  contactDetails:
   name: "prakash-PROD Lead"
   email: "prakash@gmail.com" 
