@@ -2,7 +2,7 @@ build:
  version: "1.1"
 
 accounts:
- message: "Wecome to eazybank related to production API's"
+ message: "Wecome to eazybank related to prod API's"
  contactDetails:
   name: "kumar-Prod Lead"
   email: "ravi@gmail.com" 
