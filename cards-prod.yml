@@ -2,7 +2,7 @@ build:
  version: "1.5"
 
 cards:
- message: "Wecome to eazybank related cards to production API's"
+ message: "Wecome to eazybank related cards to prod API's"
  contactDetails:
   name: "sham-PROD Lead"
   email: "shyam@gmail.com" 
